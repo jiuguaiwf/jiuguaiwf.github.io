@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Short CV"
-    url: /cv/
+  - title: "Education"
+    url: /education/
 
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
 
 #  - title: "Talks"
 #    url: '#talks'
 
-#   - title: "Teaching"
-#     url: /teaching/    
+  - title: "Stuff"
+    url: /stuff/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
@@ -24,11 +24,11 @@ main:
 #   - title: "Guide"
 #     url: /markdown/
 
-  - title: "Research"
-    url: /research/
+  # - title: "Research"
+  #   url: /research/
 
   - title: "Teaching"
-    url: /teaching/
+  #   url: /teaching/
     
-  - title: "Services"
-    url: /services/
+  # - title: "Services"
+  #   url: /services/
