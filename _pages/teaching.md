@@ -12,4 +12,6 @@ redirect_from:
 Teaching
 ======
 * Teaching Assistant, CSE303, *INTRODUCTION TO THE THEORY OF COMPUTATION
-FALL 2024*, Sep. 2020 - Jun. 2024
+FALL 2024*, Aug. 2024 - Dec. 2024
+* Teaching Assistant, CSE303, *INTRODUCTION TO THE THEORY OF COMPUTATION
+SPRING 2024*, Feb. 2025 - May. 2025
