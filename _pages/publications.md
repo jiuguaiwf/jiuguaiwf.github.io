@@ -2,8 +2,9 @@
 layout: archive
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /resume
 ---
-\* indicates equal contributors.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
