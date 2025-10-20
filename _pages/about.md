@@ -23,6 +23,6 @@ Currently, my research interest is GenAI.
   * Transformer architectures and large-scale foundation models for scientific discovery (e.g., LLM4Science).  
 
 
-How to contact me: fang(dot)wan(at symbol)stonybrook(dot)edu 📫  
+How to contact me: fanwan(at symbol)cs(dot)stonybrook(dot)edu 📫  
 
 
