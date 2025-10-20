@@ -16,4 +16,12 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-# Other Publications
+Publications
+======
+- *Diffuse and Steer: Corrective Sampling for Stable 3D Molecular Generation.*  
+  **F.Wan**, W.Gao, J.Qu, Y.Liu.  
+  *Under Review*, ICLR 2026.
+
+- *Can Data-Driven Dynamics Reveal Hidden Physics? There Is a Need for Interpretable Neural Operators.*  
+  W.Gao, J.Luo, **F.Wan**, R.Xu, X.Liu, H.Xing, Y.Liu.  
+  *In Submission.*
