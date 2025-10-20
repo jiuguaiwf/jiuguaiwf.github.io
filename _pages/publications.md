@@ -16,6 +16,9 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}
 
+Publications
+====
+
 - *Diffuse and Steer: Corrective Sampling for Stable 3D Molecular Generation.*  
   **F.Wan**, W.Gao, J.Qu, Y.Liu.  
   *Under Review*, ICLR 2026.
