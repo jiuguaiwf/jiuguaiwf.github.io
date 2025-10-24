@@ -19,7 +19,7 @@ redirect_from:
 Publications
 ====
 
-- *Diffuse and Steer: Corrective Sampling for Stable 3D Molecular Generation.*  
+- *A Paper about Corrective Inference for 3D Molecular Generation.*  
   **F.Wan**, W.Gao, J.Qu, Y.Liu.  
   *Under Review*, ICLR 2026.
 
