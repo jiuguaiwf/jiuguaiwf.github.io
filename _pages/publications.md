@@ -19,9 +19,13 @@ redirect_from:
 Publications
 ====
 
-- *A Paper about Corrective Inference for 3D Molecular Generation.*  
+- *A Paper about Corrective Inference for 3D Molecular Diffusion Generation.*  
   **F.Wan**, W.Gao, J.Qu, Y.Liu.  
-  *Under Review*, ICLR 2026.
+  *Under Review*, ICML 2026.
+
+- *A Paper on Uncertainty in Diffusion-Based 3D Molecular Generation.* 
+  **F.Wan**, J.Qu, Y.Liu.  
+  *Under Review*, KDD 2026.
 
 - *Can Data-Driven Dynamics Reveal Hidden Physics? There Is a Need for Interpretable Neural Operators.*  
   W.Gao, J.Luo, **F.Wan**, R.Xu, X.Liu, H.Xing, Y.Liu.  
