@@ -23,7 +23,7 @@ Publications
   **F.Wan**, W.Gao, J.Qu, Y.Liu.  
   *Under Review*, ICML 2026.
 
-- *A Paper on Uncertainty in Diffusion-Based 3D Molecular Generation.* 
+- *A Paper on Uncertainty in Diffusion-Based 3D Molecular Generation.*  
   **F.Wan**, J.Qu, Y.Liu.  
   *Under Review*, KDD 2026.
 
