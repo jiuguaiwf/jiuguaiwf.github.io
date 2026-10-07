@@ -1,0 +1,36 @@
+.experience-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  .experience-entry {
+    padding: 1em 0;
+    border-bottom: 1px solid $border-color;
+
+    &:first-child {
+      padding-top: 0;
+    }
+
+    &:last-child {
+      border-bottom: 0;
+    }
+
+    p {
+      margin: 0.3em 0;
+    }
+  }
+
+  .experience-entry__header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 0.25em 1em;
+  }
+
+  .experience-entry__date,
+  .experience-entry__details {
+    color: mix(#fff, $text-color, 15%);
+    font-size: 0.9em;
+  }
+}
