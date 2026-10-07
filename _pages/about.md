@@ -10,7 +10,7 @@ redirect_from:
 
 # About me
 
-Hi! This is Fang Wan, a second year PhD student in Computer Science at Stony Brook University supervised by [Professor Yi Liu](https://jacoblau0513.github.io/). 
+Hi! This is Fang Wan, a third-year PhD student in Computer Science at Stony Brook University supervised by [Professor Yi Liu](https://jacoblau0513.github.io/).
 
 Currently, my research interest is GenAI.
 
@@ -24,5 +24,4 @@ Currently, my research interest is GenAI.
 
 
 How to contact me: fanwan(at symbol)cs(dot)stonybrook(dot)edu 📫  
-
 
